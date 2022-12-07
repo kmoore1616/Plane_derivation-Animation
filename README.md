@@ -21,4 +21,8 @@ With these new values a final equation can be found to find Z at all points alon
 These two equations are used to find X and Z on my program, however, due to rounding error and differences in computer performance which affect the true V of the plane, an error of +-15m is expected.<br />
 **_Thanks for taking the time to check out my quick little project. If the docs seem long, it's because I'm practicing writing them. If you have any questions or corrections please let me know_**
 
+# Usage
 
+The program is very simple and will start automaticly. When the plane reaches the end press space to reset the animation. The values of X and Z should come out to around:<br />
+Z = 1600
+X = 1250
