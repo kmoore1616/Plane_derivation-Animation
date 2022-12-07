@@ -23,6 +23,6 @@ These two equations are used to find X and Z on my program, however, due to roun
 
 # Usage
 
-The program is very simple and will start automaticly. When the plane reaches the end press space to reset the animation. The values of X and Z should come out to around:<br />
+The program is very simple and will start automatically. When the plane reaches the end press space to reset the animation. The values of X and Z should come out to around:<br />
 Z = 1600
 X = 1250
